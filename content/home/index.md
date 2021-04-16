@@ -1,7 +1,6 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
 headless: true
+published: true
 ---
+![unnamed.jpg]({{site.baseurl}}/content/home/unnamed.jpg)
