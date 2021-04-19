@@ -1,17 +1,14 @@
 ---
-title: An example title
+title: Vision
 summary: An example summary
-date: "2020-04-06"
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `assets/media/` folder).
+date: '2020-04-06'
+reading_time: false
+share: false
+profile: false
+comments: false
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
+published: true
 ---
-
-Add your *content* here...
+MBON envisions that observations of marine biodiversity, from local to global scales, become an integral part of observing systems to strengthen the understanding of marine biodiversity and monitoring of associated changes over time, to inform society for sustainable development and conservation priorities.
