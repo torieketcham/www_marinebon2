@@ -11,4 +11,4 @@ header:
   image: ''
 published: true
 ---
-MBON envisions that observations of marine biodiversity, from local to global scales, become an integral part of observing systems to strengthen the understanding of marine biodiversity and monitoring of associated changes over time, to inform society for sustainable development and conservation priorities.
+MBON envisions that observations of marine biodiversity, from local to global scales, become an integral part of observing systems to strengthen the understanding of marine biodiversity and monitoring of associated changes over time to inform society for sustainable development and conservation priorities.
